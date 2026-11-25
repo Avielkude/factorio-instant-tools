@@ -1,0 +1,10 @@
+{
+    "name":  "instant-tools",
+    "version":  "1.0.0",
+    "title":  "Instant Tools",
+    "author":  "Avielkude",
+    "contact":  "",
+    "homepage":  "",
+    "description":  "Instant batch destroy / copy / move (with container contents), ghost preview, rotation, undo and map planning zones.",
+    "factorio_version":  "2.1"
+}
